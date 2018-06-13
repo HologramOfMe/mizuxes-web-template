@@ -1,0 +1,8 @@
+/node_modules
+*.log
+fontawesome*
+FontAwesome*
+font-awesome*
+
+*.png
+*.jpg

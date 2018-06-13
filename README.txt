@@ -8,7 +8,9 @@
 ## workflow steps below for building the project the files will be created
 ## upon install using npm.
 
-## Image files have also been ignored to save storage space and sync efficiency
+## Image files have also been ignored to save storage space and sync efficiency.
+## They are just place holder images anyway. So you aren't really missing out
+## on much there.
 
 
 
